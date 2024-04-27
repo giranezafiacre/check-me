@@ -1,0 +1,37 @@
+.h1Header {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.anchorText {
+    text-transform: capitalize;
+}
+
+.anchor {
+    background-color: #F7007D;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    padding: 10px 20px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.playstoreImage {
+    width: 20px !important;
+    height: auto !important;
+    position: relative !important;
+}
+
+.phoneScreen {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    position: relative !important;
+}
+
+.backgroundphone {
+    background-image: -o-radial-gradient(circle, #FFA3D0, #FFFFFF 300px);
+    background-image: -moz-radial-gradient(circle, #FFA3D0, #FFFFFF 300px);
+    background-image: -webkit-radial-gradient(circle, #FFA3D0, #FFFFFF 300px);
+}

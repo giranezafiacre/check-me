@@ -1,0 +1,28 @@
+.subscribe {
+    width: 20px !important;
+    height: auto !important;
+    position: relative !important;
+}
+.footer{
+    background: linear-gradient(#404375, #850042)!important;
+    color:#ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.upperFooter{
+    background-color: #404375;
+    color:#ffffff;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.upperFooter h1{
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    line-height: 30px;
+}

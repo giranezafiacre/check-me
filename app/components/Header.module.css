@@ -1,0 +1,27 @@
+.header{
+    justify-content: space-between;
+    margin:10px 100px;
+}
+.logoText {
+    text-transform: uppercase;
+    color: #F7007D;
+    font-weight: 700;
+}
+
+.anchorText {
+    text-transform: capitalize;
+}
+
+.anchor {
+    background-color: #F7007D;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+.playstoreImage{
+    width: 20px!important;
+    height: auto!important;
+    position: relative!important;
+}
